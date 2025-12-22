@@ -1,2 +1,2 @@
 # Projects
-Projects using Excel, SQL, PowerPoint 
+Projects using Excel, SQL, PowerPoint ,power bi
